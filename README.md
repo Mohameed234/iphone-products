@@ -1,2 +1,2 @@
-# iphone-products
-simple design with HTML &amp; CSS &amp; JS
+# Web page link
+### https://mohameed234.github.io/iphone-products/
